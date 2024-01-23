@@ -1,0 +1,38 @@
+.card {
+    /* background: red; */
+    padding: 2rem;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    /* width: 100%; */
+    /* color: black; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    /* gap:1rem */
+    
+}
+.table{
+    /* background-color: rgb(104, 18, 18); */
+    /* display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    width: 40rem; */
+    /* padding-left: 2rem; */
+    /* width: 100%;
+    gap: 2rem; */
+    /* position: relative; */
+    /* right: -2rem; */
+    /* font-size: 22px; */
+}
+.column{
+    /* background-color: green; */
+    /* display: flex; */
+    /* align-items: center; */
+    /* flex-direction: row; */
+    /* text-align: start; */
+    /* width: 25rem; */
+    /* gap: 1rem; */
+    /* min-width: 5rem; */
+
+}
